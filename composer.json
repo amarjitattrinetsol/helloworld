@@ -1,8 +1,6 @@
 {
     "name": "amarjit/hello-world",
     "description": "My First Composer project",
-    "type": "library",
-    "license": "test",
     "authors": [
         {
             "name": "Amar Jit Attri",
